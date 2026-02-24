@@ -10,12 +10,12 @@ This project highlights how FPGA-based acceleration improves embedded AI perform
 <img width="1080" height="700" alt="image" src="https://github.com/user-attachments/assets/faf60109-e0f4-4bc6-8519-9f9cbdd6f328" />
 
 **🧠 Key Features**
-YOLOv5n -based object detection
-Deployment on PYNQ-Z2 FPGA Board
-CPU vs Hardware Acceleration comparison
-Embedded AI workflow
-Vitis AI quantization and compilation pipeline
-Jupyter Notebook based implementation
+* YOLOv5n -based object detection
+* Deployment on PYNQ-Z2 FPGA Board
+* CPU vs Hardware Acceleration comparison
+* Embedded AI workflow
+* Vitis AI quantization and compilation pipeline
+* Jupyter Notebook based implementation
 
 **🧰 Tools & Technologies**
 * PYNQ-Z2 FPGA Board
