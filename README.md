@@ -18,12 +18,12 @@ Vitis AI quantization and compilation pipeline
 Jupyter Notebook based implementation
 
 **🧰 Tools & Technologies**
-PYNQ-Z2 FPGA Board
-Vitis AI
-Jupyter Notebook
+* PYNQ-Z2 FPGA Board
+* Vitis AI
+* Jupyter Notebook
 
-YOLOv5n model
-Python
-OpenCV
-NumPy
+* YOLOv5n model
+* Python
+* OpenCV
+* NumPy
 
