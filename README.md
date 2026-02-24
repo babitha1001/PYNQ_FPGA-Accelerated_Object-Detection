@@ -1,4 +1,4 @@
-<img width="1080" height="700" alt="image" src="https://github.com/user-attachments/assets/bf3e53fb-ebaf-49fc-8172-108d2acb51d6" />**🚀 Project Overview**
+**🚀 Project Overview**
 This project demonstrates real-time object detection using YOLOv5 deployed on the PYNQ-Z2 board (Zynq-7000 SoC) featuring an ARM Cortex-A9 processor and FPGA fabric.
 The system evaluates:
 * CPU-based inference on ARM processor
